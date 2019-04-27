@@ -4,7 +4,7 @@ body{
 
 div{
 	background-color: blue ;
-	border-color: green;
+	border-color: green ;
 	border-width: thick;
 	border-style: dotted;
 }
